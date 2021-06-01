@@ -1,6 +1,6 @@
 # Midnite Breeze Case
 
-Midnite Breeze is an unofficial open source case for the Breeze keyboard by Afternoon Labs
+Midnite Breeze is an unofficial case for the Breeze keyboard by Afternoon Labs
 
 ![midnite breeze keyboard render](https://i.imgur.com/4uPXR1M.png)
 ![midnite breeze keyboard wireframe](https://i.imgur.com/gCqrYiU.png)
