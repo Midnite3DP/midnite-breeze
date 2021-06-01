@@ -17,7 +17,7 @@ So, it's not perfect and there will be mistakes or things I could have done bett
 ✅ Southern Breeze layout  
 ✅ Summer Breeze layout  
 ✅ Tenting  
-❔ ErgoDox Tilt/Tent Kit
+❔ ErgoDox Tilt/Tent Kit  
 ❔ Breeze aluminum plate  
 
 ### Included:
