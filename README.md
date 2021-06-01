@@ -17,6 +17,8 @@ So, it's not perfect and there will be mistakes or things I could have done bett
 ✅ Southern Breeze layout  
 ✅ Summer Breeze layout  
 ✅ Tenting  
+❔ ErgoDox Tilt/Tent Kit
+❔ Breeze aluminum plate  
 
 ### Included:
 The files include STLs for the Top, Plate, and Bottom piece, each with a 'Small' and 'Large' variant. I didn't name them left/right because these files can be mirrored if you have an alternate Breeze layout. The USB-C and TRRS ports are large enough to support both positions.
