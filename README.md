@@ -33,6 +33,11 @@ Optional hardware is:
 ### 3D Printing:
 I have done 50+ prints during my build process to ensure these files can be printed but it will require a well-tuned printer. I have an Ender 3 V2 with a metal extruder arm, an upgraded bowden tube, and a BLTouch. These pieces are designed to friction-fit together, so the Plate edges will be touching the inside walls of the Bottom piece, and the Top piece's outer walls will be touching the inside walls of the Bottom piece. 
 
+Orientation:
+* Print the Top piece upside down (flat side down on the build plate)
+* Print the Plate flat, with the 'down' side touching the build plate
+* Print the Bottom piece flat side down - no supports are needed
+
 ### Note:
 * There are mounting holes in the Bottom piece for installing heatset inserts, so you can mount the PCB to the bottom of the case, but I found these are not necessary. My tolerances are such that once the whole thing is put together, the assembly will not fall apart.
 * There are some extra things I'd like to do for this project but it's taken me about a month to get to this point and I've had many issues along the way. That is to say, there's no guarantee that any more work is going to get done but please feel free to share your feedback here or contact me on Discord: [Breeze Discord](https://discord.gg/HU3YHDQG)
