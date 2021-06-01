@@ -9,13 +9,13 @@ Midnite Breeze is an unofficial case for the Breeze keyboard by Afternoon Labs
 ## This is my first time working in Fusion 360 and my first mechanical keyboard project.
 
 ### Support:
-❌ Gust macropad
-❌ Choc profile
-✅ MX profile
-✅ Ocean Breeze layout
-✅ Southern Breeze layout
-✅ Summer Breeze layout
-✅ Tenting
+❌ Gust macropad  
+❌ Choc profile  
+✅ MX profile  
+✅ Ocean Breeze layout  
+✅ Southern Breeze layout  
+✅ Summer Breeze layout  
+✅ Tenting  
 
 ### Included:
 The files include STLs for the Top, Plate, and Bottom piece, each with a 'Small' and 'Large' variant. I didn't name them left/right because these files can be mirrored if you have an alternate Breeze layout. The USB-C and TRRS ports are large enough to support both positions.
