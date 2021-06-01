@@ -7,6 +7,7 @@ Midnite Breeze is an unofficial case for the Breeze keyboard by Afternoon Labs
 ![midnite breeze keyboard wireframe exploded](https://i.imgur.com/QQKB4ZS.png)
 
 ## This is my first time working in Fusion 360 and my first mechanical keyboard project.
+So, it's not perfect and there will be mistakes or things I could have done better.
 
 ### Support:
 ❌ Gust macropad  
