@@ -26,7 +26,7 @@ There are tenting mounts and tenting legs with and without caps. The capless ver
 * M3 Nuts
 
 Optional hardware is:
-* O-rings - as an interface between the tenting leg and the insert, for extra grip [CA Amazon](https://www.amazon.ca/ThreeBulls-120Pcs-Dampeners-Keyboards-Dampers/dp/B01N6438BK)[US Amazon](https://www.amazon.com/ThreeBulls-120Pcs-Dampeners-Keyboards-Dampers/dp/B01N6438BK)
+* O-rings - as an interface between the tenting leg and the insert, for extra grip [CA Amazon](https://www.amazon.ca/ThreeBulls-120Pcs-Dampeners-Keyboards-Dampers/dp/B01N6438BK)/[US Amazon](https://www.amazon.com/ThreeBulls-120Pcs-Dampeners-Keyboards-Dampers/dp/B01N6438BK)
 * Rubber plugs - if you want more grip on the bottom of the tenting legs (use capless tenting legs) [CA Amazon](https://www.amazon.ca/gp/product/B07TXYSYS3)/[US Amazon](https://www.amazon.com/Aislor-Bumpers-Rubber-Grippers-Spacers/dp/B08LQ192XK)
 * M2x4mm Heatset inserts - if you want mounting points for the PCB
 
