@@ -6,19 +6,18 @@ Midnite Breeze is an unofficial case for the Breeze keyboard by Afternoon Labs
 ![midnite breeze keyboard wireframe](https://i.imgur.com/gCqrYiU.png)
 ![midnite breeze keyboard wireframe exploded](https://i.imgur.com/QQKB4ZS.png)
 
-## This is my first time working in Fusion 360 and my first mechanical keyboard project.
-So, it's not perfect and there will be mistakes or things I could have done better.
+I'm not a fan of the open-top design on Afternoon Lab's 3D printed case and I wanted a case that includes tenting options. So, as my first Fusion360 project ever, I decided to design my own case from scratch, using the PCB outline as reference. My case has 3 pieces; a bottom piece with optional holes for heatset inserts so you can screw the PCB into it, a plate piece to add more stability to MX switches, and a top piece that uses friction-fit to enclose the components.
 
 ### Support:
 ❌ Gust macropad  
-❌ Choc profile  
+❌ Choc profile
+❌ ErgoDox Tilt/Tent Kit
 ✅ MX profile  
 ✅ Ocean Breeze layout  
 ✅ Southern Breeze layout  
 ✅ Summer Breeze layout  
 ✅ Tenting  
-❔ ErgoDox Tilt/Tent Kit  
-❔ Breeze aluminum plate  
+✅ Breeze aluminum plate  
 
 ### Included:
 The files include STLs for the Top, Plate, and Bottom piece, each with a 'Small' and 'Large' variant. I didn't name them left/right because these files can be mirrored if you have an alternate Breeze layout. The USB-C and TRRS ports are large enough to support both positions.
