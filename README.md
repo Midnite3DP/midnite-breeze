@@ -1,4 +1,4 @@
-# Midnite Breeze Case
+# Midnite Breeze Case V3
 
 Midnite Breeze is an unofficial case for the Breeze keyboard by Afternoon Labs
 
