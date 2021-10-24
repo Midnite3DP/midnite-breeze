@@ -2,16 +2,12 @@
 
 Midnite Breeze is an unofficial case for the Breeze keyboard by Afternoon Labs
 
-![midnite breeze keyboard render](https://i.imgur.com/4uPXR1M.png)
-![midnite breeze keyboard wireframe](https://i.imgur.com/gCqrYiU.png)
-![midnite breeze keyboard wireframe exploded](https://i.imgur.com/QQKB4ZS.png)
+![midnite breeze keyboard render](https://i.imgur.com/j3Kd65b.jpeg)
+![midnite breeze keyboard wireframe](https://media1.giphy.com/media/7vOhRmdlaXxdpO26cc/giphy.gif)
 
-I'm not a fan of the open-top design on Afternoon Lab's 3D printed case and I wanted a case that includes tenting options. So, as my first Fusion360 project ever, I decided to design my own case from scratch, using the PCB outline as reference. My case has 3 pieces; a bottom piece with optional holes for heatset inserts so you can screw the PCB into it, a plate piece to add more stability to MX switches, and a top piece that uses friction-fit to enclose the components.
+This is a 3-part 3D printed case that allows you to fully enclose your PCB. A well calibrated printer is recommended due to the tolerances required for friction-fit parts.
 
-### Support:
-❌ Gust macropad  
-❌ Choc profile
-❌ ErgoDox Tilt/Tent Kit
+### Supported:
 ✅ MX profile  
 ✅ Ocean Breeze layout  
 ✅ Southern Breeze layout  
@@ -19,26 +15,28 @@ I'm not a fan of the open-top design on Afternoon Lab's 3D printed case and I wa
 ✅ Tenting  
 ✅ Breeze aluminum plate  
 
+### Not Supported:
+❌ Gust macropad
+❌ Choc profile
+❌ ErgoDox Tilt/Tent Kit
+
 ### Included:
-The files include STLs for the Top, Plate, and Bottom piece, each with a 'Small' and 'Large' variant. I didn't name them left/right because these files can be mirrored if you have an alternate Breeze layout. The USB-C and TRRS ports are large enough to support both positions.
+The files include STLs for the Top, Plate, and Bottom piece - every piece can be mirrored in your slicer. The USB-C and TRRS ports are large enough to support both positions. Tenting is also included but is optional.
 
-There are tenting mounts and tenting legs with and without caps. The capless version of the legs can be useful if you want to add your own rubber plugs for extra grip. **Tenting does require some hardware:**
-* M3x16mm Bolt/Thumb screws
-* M3 Nuts
 
-Optional hardware is:
-* O-rings - as an interface between the tenting leg and the insert, for extra grip [CA Amazon](https://www.amazon.ca/ThreeBulls-120Pcs-Dampeners-Keyboards-Dampers/dp/B01N6438BK) / [US Amazon](https://www.amazon.com/ThreeBulls-120Pcs-Dampeners-Keyboards-Dampers/dp/B01N6438BK)
-* Rubber plugs - if you want more grip on the bottom of the tenting legs (use capless tenting legs) [CA Amazon](https://www.amazon.ca/gp/product/B07TXYSYS3) / [US Amazon](https://www.amazon.com/Aislor-Bumpers-Rubber-Grippers-Spacers/dp/B08LQ192XK)
-* M2x4mm Heatset inserts - if you want mounting points for the PCB
+### Tenting: 
+There are holes on the underside of the base so you can glue in ø 8mm magnets (3mm thick). You can then print your own tenting solution or use mine. I like the option of quickly removing my tenting, so I went with magnets.
+
+### Mounting:
+There are 4 (5 on the large base) to install M3 heatset inserts on the inside of the base so that you can screw-mount your PCB. In my test, I've found this to be unnecessary, but the option is there - if you're using the FR4 Plate, I recommend this screwing it in.
 
 ### 3D Printing:
-I have done 50+ prints during my build process to ensure these files can be printed but it will require a well-tuned printer. I have an Ender 3 V2 with a metal extruder arm, an upgraded bowden tube, and a BLTouch. These pieces are designed to friction-fit together, so the Plate edges will be touching the inside walls of the Bottom piece, and the Top piece's outer walls will be touching the inside walls of the Bottom piece. 
+No supports necessary - the only overhangs are on the ports (TRRS & USB) and the underside magnet holes. With enough cooling, I find this isn't an issue - I tested both PLA and ABS
 
 Orientation:
 * Print the Top piece upside down (flat side down on the build plate)
 * Print the Plate flat, with the 'down' side touching the build plate
 * Print the Bottom piece flat side down - no supports are needed
 
-### Note:
-* There are mounting holes in the Bottom piece for installing heatset inserts, so you can mount the PCB to the bottom of the case, but I found these are not necessary. My tolerances are such that once the whole thing is put together, the assembly will not fall apart.
-* There are some extra things I'd like to do for this project but it's taken me about a month to get to this point and I've had many issues along the way. That is to say, there's no guarantee that any more work is going to get done but please feel free to share your feedback here or contact me on Discord: [Breeze Discord](https://discord.gg/HU3YHDQG)
+### Questions:
+Contact me on the [Breeze Discord](https://discord.gg/HU3YHDQG) - @Midnite#1337
