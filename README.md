@@ -1,6 +1,6 @@
 # Midnite Breeze Case V3
 
-Midnite Breeze is an unofficial case for the Breeze keyboard by Afternoon Labs
+Midnite Breeze is an unofficial case for the [Breeze keyboard by Afternoon Labs](https://afternoonlabs.com/breeze/)
 
 ![midnite breeze keyboard render](https://i.imgur.com/j3Kd65b.jpeg)
 ![midnite breeze keyboard wireframe](https://media1.giphy.com/media/7vOhRmdlaXxdpO26cc/giphy.gif)
