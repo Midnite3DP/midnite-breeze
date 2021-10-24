@@ -3,7 +3,7 @@
 Midnite Breeze is an unofficial case for the [Breeze keyboard by Afternoon Labs](https://afternoonlabs.com/breeze/)
 
 ![midnite breeze keyboard render](https://i.imgur.com/j3Kd65b.jpeg)
-![midnite breeze keyboard wireframe](https://media1.giphy.com/media/7vOhRmdlaXxdpO26cc/giphy.gif)
+![midnite breeze keyboard wireframe](https://media1.giphy.com/media/7vOhRmdlaXxdpO26cc/giphy.gif)![midnite breeze photo](https://i.imgur.com/dTcihkR.jpg)
 
 This is a 3-part 3D printed case that allows you to fully enclose your PCB. A well calibrated printer is recommended due to the tolerances required for friction-fit parts.
 
