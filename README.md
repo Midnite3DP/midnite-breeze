@@ -23,12 +23,11 @@ This is a 3-part 3D printed case that allows you to fully enclose your PCB. A we
 ### Included:
 The files include STLs for the Top, Plate, and Bottom piece - every piece can be mirrored in your slicer. The USB-C and TRRS ports are large enough to support both positions. Tenting is also included but is optional.
 
-
 ### Tenting: 
 There are holes on the underside of the base so you can glue in ø 8mm magnets (3mm thick). You can then print your own tenting solution or use mine. I like the option of quickly removing my tenting, so I went with magnets.
 
 ### Mounting:
-There are 4 (5 on the large base) to install M3 heatset inserts on the inside of the base so that you can screw-mount your PCB. In my test, I've found this to be unnecessary, but the option is there - if you're using the FR4 Plate, I recommend this screwing it in.
+There are 4 (5 on the large base) to install M3x5x4 heatset inserts on the inside of the base so that you can screw-mount your PCB. In my test, I've found this to be unnecessary, but the option is there - if you're using the FR4 Plate, I recommend this screwing it in.
 
 ### 3D Printing:
 No supports necessary - the only overhangs are on the ports (TRRS & USB) and the underside magnet holes. With enough cooling, I find this isn't an issue - I tested both PLA and ABS
